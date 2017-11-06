@@ -17,5 +17,6 @@ will need to modify the scripts accordingly in order to match the URL
 of your PBX(en.)
 
 Current scripts are:
- grandstream-epmfix.js - Fix dial plan for Grandstream devices
+
+    grandstream-epmfix.js - Fix dial plan for Grandstream devices
 
