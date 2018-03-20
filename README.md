@@ -20,4 +20,5 @@ Current scripts are:
 
     grandstream-epmfix.js - Fix dial plan for Grandstream devices
     obihai-epmfix.js - Fix dial plan for Obihai devices
+    sangoma-epmfix.js - Fix dial plan for Sangoma devices
 
