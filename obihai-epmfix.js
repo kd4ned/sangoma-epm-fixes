@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name    Sangoma EndPoint Manager Fix for Voiceopia
 // @description Fixes brain-dead lack of URL encoding for dialpatterns on Sangoma EPM with Voiceopia PBXes
-// @include http://*.pbx.voiceopia.net/admin/config.php?display=endpoint&view=sangoma*
-// @include http://pbx.voiceopia.com/admin/config.php?display=endpoint&view=sangoma*
+// @include http://*.pbx.voiceopia.net/admin/config.php?display=endpoint&view=obihai*
+// @include http://pbx.voiceopia.com/admin/config.php?display=endpoint&view=obihai*
 // ==/UserScript==
 
 dialpat = document.getElementById("dialpattern").value;
